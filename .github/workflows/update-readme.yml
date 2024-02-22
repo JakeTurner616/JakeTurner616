@@ -2,7 +2,7 @@ name: Update README with serverboi.org Atom Feed
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Runs every 30 minutes; adjust as needed
+    - cron: '0 0 * * *' # Runs every day at midnight
   workflow_dispatch:
 
 permissions:
