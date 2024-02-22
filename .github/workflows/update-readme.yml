@@ -24,7 +24,7 @@ jobs:
         pip install feedparser
 
     - name: Parse Atom feed and update README
-      run: python .github/scripts/workflows/update_readme.py
+      run: python .github/workflows/scripts/update_readme.py
 
     - name: Commit and push if changed
       run: |
