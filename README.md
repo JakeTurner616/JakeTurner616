@@ -36,9 +36,9 @@
 
 # 🌎 Latest Posts 
 <!-- feed start -->
-- Oct 12 - [Gmail から iCloud カスタムドメインメールを扱えなかった](https://note.sarisia.cc/entry/you-cannot-gmailify-icloud-customdomain/)
-- Jan 03 - [Slash CommandsでサーバレスなDiscordアプリを作る](https://note.sarisia.cc/entry/discord-slash-commands/)
-- Nov 19 - [はてブを見たくない人のためのChrome拡張を作った](https://note.sarisia.cc/entry/no-hatena-bookmark/)
-- Oct 07 - [GitHub Codespaces カスタマイズのコツ](https://note.sarisia.cc/entry/customizing-codespaces/)
-- Sep 27 - [GitHub Actions ランタイムを多言語化するアクションを作った](https://note.sarisia.cc/entry/github-actions-setup-icu/)
+- 2023-05-02 - [Real Art AI - AI art studio](https://serverboi.org/posts/Real-Art-AI/)
+- 2023-04-23 - [Discord-notify-bot - Ultimate Discord notfication bot](https://serverboi.org/posts/Discord-notify-bot/)
+- 2023-04-01 - [Load balance Stable Diffusion GPU/CPU Cluster](https://serverboi.org/posts/sd-loadbalance/)
+- 2022-10-06 - [reboot-to-uefi - A simple batch / bash file to act as a clone of ASROCK restart to UEFI](https://serverboi.org/posts/reboot-to-uefi/)
+- 2022-10-06 - [Fitgirl magnet list](https://serverboi.org/posts/FitGirl-Repack-List/)
 <!-- feed end -->
