@@ -1,0 +1,35 @@
+name: Update README with Atom Feed
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Runs every 30 minutes; adjust as needed
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedparser
+
+    - name: Parse Atom feed and update README
+      run: python .github/scripts/update_readme.py
+
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"
+        git add README.md
+        git commit -m "Updated README with the latest blog posts" || exit 0
+        git push
