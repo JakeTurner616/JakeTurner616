@@ -18,7 +18,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
         with:
-          feed-url: https://jasonet.co/rss.xml
-          readme-section: feed
+          url: 'https://note.sarisia.cc/index.xml'
+          file: 'README.md'
+      - uses: sarisia/actions-commit@master
