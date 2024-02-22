@@ -1,4 +1,4 @@
-name: Update README with Atom Feed
+name: Update README with serverboi.org Atom Feed
 
 on:
   schedule:
@@ -24,12 +24,12 @@ jobs:
         pip install feedparser
 
     - name: Parse Atom feed and update README
-      run: python .github/scripts/update_readme.py
+      run: python .github/scripts/workflows/update_readme.py
 
     - name: Commit and push if changed
       run: |
-        git config --global user.email "you@example.com"
-        git config --global user.name "Your Name"
+        git config --global user.email "jake@serverboi.org"
+        git config --global user.name "Jake Turner"
         git add README.md
         git commit -m "Updated README with the latest blog posts" || exit 0
         git push
