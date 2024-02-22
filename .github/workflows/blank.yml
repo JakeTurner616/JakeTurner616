@@ -1,25 +1,15 @@
-name: CI
+name: Update this repo's README
 
 on:
   schedule:
-    - cron:  '0 */10 * * *' # Runs every 10 hours
-  workflow_dispatch:
+    # Once a day at 8 AM
+    - cron: 0 8 * * *
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      # Placeholder for checking RSS feed; you need to implement this
-      - name: Check RSS Feed for Updates
-        id: check_rss
-        run: |
-          # Implement a check here; set `rss_updated` as an output variable if updates are found
-          echo "::set-output name=rss_updated::true"
-      - uses: sarisia/actions-readme-feed@v1
-        if: steps.check_rss.outputs.rss_updated == 'true'
+      - uses: JasonEtco/rss-to-readme@v1
         with:
-          url: 'https://note.sarisia.cc/index.xml'
-          file: 'README.md'
-      - uses: sarisia/actions-commit@master
-        if: steps.check_rss.outputs.rss_updated == 'true'
+          feed-url: https://jasonet.co/rss.xml
+          readme-section: feed
