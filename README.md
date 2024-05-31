@@ -87,9 +87,9 @@
 
 # 🌎 Latest Posts 
 <!-- feed start -->
+- 2024-05-30 - [Pygame Lua Integration: Simplifying Game Development](https://serverboi.org/posts/pygame-lua-bindings/)
 - 2024-02-21 - [Infinity Library - Book Downloader](https://serverboi.org/posts/Infinity-Library/)
 - 2023-05-02 - [Real Art AI - AI art studio](https://serverboi.org/posts/Real-Art-AI/)
 - 2023-04-23 - [Discord-notify-bot - Ultimate Discord notfication bot](https://serverboi.org/posts/Discord-notify-bot/)
 - 2023-04-01 - [Load balance Stable Diffusion GPU/CPU Cluster](https://serverboi.org/posts/sd-loadbalance/)
-- 2022-10-06 - [reboot-to-uefi - A simple batch / bash file to act as a clone of ASROCK restart to UEFI](https://serverboi.org/posts/reboot-to-uefi/)
 <!-- feed end -->
