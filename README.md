@@ -87,9 +87,9 @@
 
 # 🌎 Latest Posts 
 <!-- feed start -->
+- 2024-07-05 - [Map Pixel - An r/place Fullstack Clone](https://serverboi.org/posts/map-pixel-app/)
 - 2024-06-15 - [React mp3 downloader for Plexamp](https://serverboi.org/posts/mp3-react-app/)
 - 2024-06-12 - [DiscordTorrentManager - Torrent stuff with your friends](https://serverboi.org/posts/DiscordTorrentManager/)
 - 2024-05-30 - [Pygame Lua Integration: Simplifying Game Development](https://serverboi.org/posts/pygame-lua-bindings/)
 - 2024-02-21 - [Infinity Library - Book Downloader](https://serverboi.org/posts/Infinity-Library/)
-- 2023-05-02 - [Real Art AI - AI art studio](https://serverboi.org/posts/Real-Art-AI/)
 <!-- feed end -->
