@@ -1,14 +1,10 @@
-# 👋 Hi, I'm Jake Turner, a web developer from Denver, CO.
+# 👋 Hi, I'm Jake Turner, a full-stack web developer from Denver, CO.
 
 ## 🔭 Current Work
 - **AI/ML Research:** Exploring artificial intelligence and machine learning. [View my work on Hugging Face](https://huggingface.co/JakeTurner616)
 
 ## 🧠 Education
 - Currently enhancing skills in **Backend Service Development, Web-Automation, Networking, UI/UX Design, and AI/ML**.
-
-## ⚡ Main Projects
-- **AI IOS/Android App:** Developing "Real Art AI", a mobile application leveraging AI. [Learn More](https://app.serverboi.org)
-- **Configurable Book Downloader:** Working on "Infinity Library," a versatile book downloader. [Explore on GitHub](https://github.com/JakeTurner616/Infinity-Library)
 
 ## 📝 Writing and Documentation
 - I publish articles on my website covering programming and self-hosting projects. [Read on Serverboi.org](https://serverboi.org)
@@ -19,8 +15,6 @@
 
 ## 🌐 Social links:
 [![](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-white?style=flat)](https://huggingface.co/JakeTurner616) [![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fcodepen.io%2Fjaketurner616&logo=codepen&label=CodePen)](https://codepen.io/jaketurner616) [![](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fjek92090056&label=Tweet)](https://twitter.com/jek92090056)
-
-
 
 
 # 🏗️ Tech Stack:
