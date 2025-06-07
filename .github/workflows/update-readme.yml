@@ -31,8 +31,8 @@ jobs:
 
     - name: Commit and push if changed
       run: |
-        git config --global user.email "jake@serverboi.org"
-        git config --global user.name "Jake Turner"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
         git add README.md
-        git commit -m "Updated README with the latest blog posts" || exit 0
+        git commit -m "Updated README with the latest posts" || exit 0
         git push
