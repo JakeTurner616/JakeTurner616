@@ -15,11 +15,9 @@
   _→ [GitHub Repositories](https://github.com/JakeTurner616?tab=repositories)_
 
 <br>
-</br>
 <i>Continuously learning, iterating, and optimizing.</i>
-<br>
 </br>
-
+<br>
 
 </td>
 <td align="center">
@@ -44,6 +42,7 @@
 | ![trophy](https://github-profile-trophy.vercel.app/?username=JakeTurner616&column=7&margin-w=15&margin-h=15&no-frame=true&flat) |
 
 # 📰 Recent posts on [serverboi.org](https://serverboi.org)
+
 <!-- feed start -->
 - 2024-09-17 - [js13k 2024 Post-Mortem - html/css/js Game Jam](https://serverboi.org/posts/js13k-Post-Mortem/)
 - 2024-07-05 - [Map Pixel - An r/place Fullstack Clone](https://serverboi.org/posts/map-pixel-app/)
@@ -51,3 +50,12 @@
 - 2024-06-12 - [DiscordTorrentManager - Torrent stuff with your friends](https://serverboi.org/posts/DiscordTorrentManager/)
 - 2024-05-30 - [Pygame Lua Integration: Simplifying Game Development](https://serverboi.org/posts/pygame-lua-bindings/)
 <!-- feed end -->
+
+---
+
+```
+ _____   _  _    __    __  _   _  __   __     ___    __    ___     _   _   _    __   _   _____   _   __  _    __      _  
+|_   _| | || |  /  \  |  \| | | |/ / /' _/   | __|  /__\  | _ \   | \ / | | | /' _/ | | |_   _| | | |  \| |  / _]    / \ 
+  | |   | >< | | /\ | | | ' | |   <  `._`.   | _|  | \/ | | v /   `\ V /' | | `._`. | |   | |   | | | | ' | | [/\    \_/ 
+  |_|   |_||_| |_||_| |_|\__| |_|\_\ |___/   |_|    \__/  |_|_\     \_/   |_| |___/ |_|   |_|   |_| |_|\__|  \__/    (_) 
+```
