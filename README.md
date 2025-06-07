@@ -5,7 +5,7 @@
 
 ## 🔭 Current Work  
 
-- **AI/ML Research:** Exploring artificial intelligence and machine learning solutions.  
+- **AI/ML Research:** Exploring artificial intelligence and machine learning.  
   _→ [Hugging Face](https://huggingface.co/JakeTurner616)_
 
 - **Full-Stack Web Projects:** Crafting modern web experiences with custom infrastructure.  
@@ -26,23 +26,22 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHB6emt1MmZqMW5weWpxbHNpZ2Y5bDdpc2hyeTVvbGoxdzliYnY0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tPgbUUcfS5IWiTm/giphy.gif" 
        alt="Floating Window GIF" 
        width="420" 
-       height="340" 
-       style="border-radius: 8px;" />
+       height="340"/>
   <br />
 </td>
 </tr>
 </table>
 
-
-
 # 📊 GitHub Stats:
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JakeTurner616&show_icons=true&include_all_commits=true&theme=default&hide_border=true\&show_icons=true\&show=prs_merged,prs_merged_percentage&hide=contribs,issues" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeTurner616&layout=compact&theme=default&hide_border=true&size_weight=0.2&count_weight=0.8" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JakeTurner616&show_icons=true&include_all_commits=true&theme=default&hide_border=true&show_icons=true&show=prs_merged,prs_merged_percentage&hide=contribs,issues" alt="JakeTurner616's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeTurner616&layout=compact&theme=default&hide_border=true&size_weight=0.2&count_weight=0.8" /></a> |
 | ------------- | ------------- |
+
+| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JakeTurner616&card_width=777" alt="GitHub Streak" /></a>
+| ------------- |
 
 | GitHub Trophies |
 |------------------|
 | ![trophy](https://github-profile-trophy.vercel.app/?username=JakeTurner616&column=7&margin-w=15&margin-h=15&no-frame=true&flat) |
-
 
 # 📰 Recent posts on [serverboi.org](https://serverboi.org)
 <!-- feed start -->
