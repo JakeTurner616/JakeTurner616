@@ -31,10 +31,10 @@
 </table>
 
 # 📊 GitHub Stats:
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JakeTurner616&show_icons=true&include_all_commits=true&theme=default&hide_border=true&show_icons=true&show=prs_merged,prs_merged_percentage&hide=contribs,issues" alt="JakeTurner616's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeTurner616&layout=compact&theme=default&hide_border=true&size_weight=0.2&count_weight=0.8" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=JakeTurner616&show_icons=true&include_all_commits=true&theme=default&hide_border=true&show_icons=true&show=prs_merged,prs_merged_percentage&hide=contribs,issues" alt="JakeTurner616's GitHub stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeTurner616&layout=compact&theme=default&hide_border=true&size_weight=0.2&count_weight=0.8" /></a> |
 | ------------- | ------------- |
 
-| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JakeTurner616&card_width=777" alt="GitHub Streak" /></a>
+| <img src="https://streak-stats.demolab.com?user=JakeTurner616&card_width=777" alt="GitHub Streak" /></a>
 | ------------- |
 
 | GitHub Trophies |
@@ -55,18 +55,18 @@
 
 
 ```
-               /`-._                                                                              
-             /_,.._`:-                                       ... -= ....                          
-         ,.-'  ,   `-:..-')                                 :####@@##~^~":::. .                   
-        : o ):';      _  {                                ##%%##@@@@@@+--   ::..                  
-         `-._ `'__,.-'\`-.)                              ###@+''`           ~--##::               
-             `\\  \,.-'`                               |@%@#%#               ' ##@@.              
-                                                      ##@@%@                  :|#@@:              
-                                                      |#@#%@                  ;:|%@@#             
-                                                     |@@@#:'.                 .:#@@|              
-                                                     '|@@@|^^:             .~==%@@@!              
-                                                        ':#@##=.        ....#@%@+     ｡.°˚'       
-                                                          ''~~""^^::^~^~~^^^^~~'  :|@@#   ':@.    
+               /`-._
+             /_,.._`:-                                       ... -= ....
+         ,.-'  ,   `-:..-')                                 :####@@##~^~":::. .
+        : o ):';      _  {                                ##%%##@@@@@@+--   ::..
+         `-._ `'__,.-'\`-.)                              ###@+''`           ~--##::
+             `\\  \,.-'`                               |@%@#%#               ' ##@@.
+                                                      ##@@%@                  :|#@@:
+                                                      |#@#%@                  ;:|%@@#
+                                                     |@@@#:'.                 .:#@@|
+                                                     '|@@@|^^:             .~==%@@@!
+                                                        ':#@##=.        ....#@%@+     ｡.°˚'
+                                                          ''~~""^^::^~^~~^^^^~~'  :|@@#   ':@.
                                                                               :#@@@=     @@@|    
                                                                             =#@@^         |@@|   
                                                                           |@@#:  ..       @@@:
