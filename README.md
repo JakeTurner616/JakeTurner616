@@ -44,7 +44,7 @@
 # 📰 Recent posts on [serverboi.org](https://serverboi.org)
 
 <!-- feed start -->
-- 2025-06-05 - [mtgcards.scan: Fullstack MTG card scanning app](https://serverboi.org/posts/mtgcards-scan/)
+- 2025-06-05 - [mtgscan.cards: Fullstack MTG card scanning app](https://serverboi.org/posts/mtgcards-scan/)
 - 2024-09-17 - [js13k 2024 Post-Mortem - html/css/js Game Jam](https://serverboi.org/posts/js13k-Post-Mortem/)
 - 2024-07-05 - [Map Pixel - An r/place Fullstack Clone](https://serverboi.org/posts/map-pixel-app/)
 - 2024-06-15 - [React mp3 downloader for Plexamp](https://serverboi.org/posts/mp3-react-app/)
