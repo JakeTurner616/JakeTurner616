@@ -44,11 +44,11 @@
 # 📰 Recent posts on [serverboi.org](https://serverboi.org)
 
 <!-- feed start -->
+- 2025-06-11 - [Serufuhosuto-music-bot](https://serverboi.org/posts/self-hosted-music-bot/)
+- 2025-06-11 - [YouTube TV Desktop w/ adblock](https://serverboi.org/posts/YouTubeTV-adblocking/)
+- 2025-06-11 - [Adonalsium Adjacency matrix web visualization](https://serverboi.org/posts/Adonalsium-data/)
 - 2025-06-05 - [mtgscan.cards: Fullstack MTG card scanning app](https://serverboi.org/posts/mtgcards-scan/)
 - 2024-09-17 - [js13k 2024 Post-Mortem - html/css/js Game Jam](https://serverboi.org/posts/js13k-Post-Mortem/)
-- 2024-07-05 - [Map Pixel - An r/place Fullstack Clone](https://serverboi.org/posts/map-pixel-app/)
-- 2024-06-15 - [React mp3 downloader for Plexamp](https://serverboi.org/posts/mp3-react-app/)
-- 2024-06-12 - [DiscordTorrentManager - Torrent Client](https://serverboi.org/posts/DiscordTorrentManager/)
 <!-- feed end -->
 
 ---
