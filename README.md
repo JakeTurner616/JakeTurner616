@@ -22,7 +22,9 @@
 </td>
 <td align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHB6emt1MmZqMW5weWpxbHNpZ2Y5bDdpc2hyeTVvbGoxdzliYnY0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tPgbUUcfS5IWiTm/giphy.gif" 
-       alt="Floating Window GIF" 
+      alt="Floating Window GIF" 
+      width="420" 
+      height="340"
 >
   <br />
 </td>
