@@ -42,6 +42,10 @@
 |------------------|
 | ![trophy](https://github-profile-trophy.vercel.app/?username=JakeTurner616&column=7&margin-w=15&margin-h=15&no-frame=true&flat) |
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JakeTurner616&repo=Infinity-Library)](https://github.com/JakeTurner616/Infinity-Library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JakeTurner616&repo=DiscordTorrentManager)](https://github.com/JakeTurner616/DiscordTorrentManager)  
+
 # 📰 Recent posts on [serverboi.org](https://serverboi.org)
 
 <!-- feed start -->
