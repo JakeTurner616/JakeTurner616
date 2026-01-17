@@ -31,20 +31,15 @@
 </tr>
 </table>
 
-# 📊 GitHub Stats:
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=JakeTurner616&show_icons=true&include_all_commits=true&theme=default&hide_border=true&show_icons=true&show=prs_merged,prs_merged_percentage&hide=contribs,issues" alt="JakeTurner616's GitHub stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeTurner616&layout=compact&theme=default&hide_border=true&size_weight=0.2&count_weight=0.8" /></a> |
-| ------------- | ------------- |
 
+| GitHub Stats | 
+| ------------- | 
 | <img src="https://github-readme-streak-stats-eight.vercel.app?user=JakeTurner616&card_width=777" alt="GitHub Streak" /></a>
-| ------------- |
 
 | GitHub Trophies |
 |------------------|
-| ![trophy](https://github-profile-trophy.vercel.app/?username=JakeTurner616&column=7&margin-w=15&margin-h=15&no-frame=true&flat) |
+| ![trophy](https://github-trophies.vercel.app/?username=JakeTurner616&theme=default&no-frame=false&no-bg=false&margin-w=8&margin-h=8) |
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JakeTurner616&repo=Infinity-Library)](https://github.com/JakeTurner616/Infinity-Library)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JakeTurner616&repo=DiscordTorrentManager)](https://github.com/JakeTurner616/DiscordTorrentManager)  
 
 # 📰 Recent posts on [serverboi.org](https://serverboi.org)
 
