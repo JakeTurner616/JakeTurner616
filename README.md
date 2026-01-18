@@ -44,11 +44,11 @@
 # 📰 Recent posts on [serverboi.org](https://serverboi.org)
 
 <!-- feed start -->
+- 2025-11-25 - [Softbody Physics Prototype: A Real-Time XPBD Tire Simulation](https://serverboi.org/posts/Softbody-Physics-Prototype/)
+- 2025-09-25 - [js13k 2025 Post Mortem - html/css/js Game Jam](https://serverboi.org/posts/Js13k-2025-Post-Mortem/)
 - 2025-06-11 - [Serufuhosuto-music-bot](https://serverboi.org/posts/self-hosted-music-bot/)
 - 2025-06-11 - [YouTube TV Desktop w/ adblock](https://serverboi.org/posts/YouTubeTV-adblocking/)
 - 2025-06-11 - [Adonalsium Adjacency matrix web visualization](https://serverboi.org/posts/Adonalsium-data/)
-- 2025-06-05 - [mtgscan.cards: Fullstack MTG card scanning app](https://serverboi.org/posts/mtgcards-scan/)
-- 2024-09-17 - [js13k 2024 Post-Mortem - html/css/js Game Jam](https://serverboi.org/posts/js13k-Post-Mortem/)
 <!-- feed end -->
 
 ---
